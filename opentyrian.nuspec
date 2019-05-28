@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>opentyrian</id>
+    <version>2.1.0</version>
+    <packageSourceUrl>https://github.com/n3rd4i/opentyrian.git</packageSourceUrl>
+    <owners>n3rd4i</owners>
+    <title>opentyrian (Install)</title>
+    <authors>The OpenTyrian Development Team</authors>
+    <licenseUrl>https://bitbucket.org/opentyrian/opentyrian/src/default/COPYING</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://bitbucket.org/opentyrian/opentyrian/src/default/</projectUrl>
+    <docsUrl>https://bitbucket.org/opentyrian/opentyrian/wiki/Home</docsUrl>
+    <iconUrl>https://bytebucket.org/ravatar/%7B2c268411-6312-405a-83ef-054914ef624d%7D?ts=607002</iconUrl>
+    <tags>opentyrian tyrian</tags>
+    <summary>OpenTyrian is an open-source port of the DOS game Tyrian.</summary>
+    <description>
+    Tyrian is an arcade-style vertical scrolling shooter. The story is set in 20,031 where you play as Trent Hawkins, a skilled fighter-pilot employed to fight MicroSol and save the galaxy.
+    </description>
+    <releaseNotes>https://bitbucket.org/opentyrian/opentyrian/src/default/NEWS</releaseNotes>
+    <mailingListUrl>https://bitbucket.org/opentyrian/opentyrian/wiki/Home</mailingListUrl>
+    <bugTrackerUrl>http://tyrian2k.proboards.com/board/5/opentyrian-general-discussion</bugTrackerUrl>
+    <projectSourceUrl>https://bitbucket.org/opentyrian/opentyrian/src</projectSourceUrl>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
