@@ -5,7 +5,7 @@
     <version>2.1.0</version>
     <packageSourceUrl>https://github.com/n3rd4i/opentyrian.git</packageSourceUrl>
     <owners>n3rd4i</owners>
-    <title>opentyrian (Install)</title>
+    <title>OpenTyrian</title>
     <authors>The OpenTyrian Development Team</authors>
     <licenseUrl>https://bitbucket.org/opentyrian/opentyrian/src/default/COPYING</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
